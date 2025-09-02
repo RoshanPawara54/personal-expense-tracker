@@ -1,0 +1,8 @@
+pandas
+matplotlib
+plotly
+streamlit
+flask
+django
+tabulate
+rich
