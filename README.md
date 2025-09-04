@@ -5,7 +5,7 @@ A Personal Expense Tracker built in 3 phases: CLI, Streamlit, and Flask/Django.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/personal-expense-tracker?style=social)
+![GitHub stars](https://img.shields.io/github/stars/RoshanPawara54/personal-expense-tracker?style=social)
 
 ---
 
@@ -39,20 +39,20 @@ It supports multiple users, stores data in CSV files, and provides basic CRUD op
    git clone https://github.com/yourusername/personal-expense-tracker.git
    cd personal-expense-tracker
 
-# Sign in / Register
-python expense_tracker.py signin --name Your_name
+2. Sign in / Register
+   python expense_tracker.py signin --name Your_name
 
-# Log in
-python expense_tracker.py login --name Your_name
+3. Log in
+   python expense_tracker.py login --name Your_name
 
-# Add expense
-python expense_tracker.py add --category Travel --amount 250
+4. Add expense
+   python expense_tracker.py add --category Travel --amount 250
 
-# View expenses
-python expense_tracker.py view
+5. View expenses
+   python expense_tracker.py view
 
-# Delete expense
-python expense_tracker.py delete
+6. Delete expense
+   python expense_tracker.py delete
 
-# Update expense
-python expense_tracker.py update
+7. Update expense
+   python expense_tracker.py update
